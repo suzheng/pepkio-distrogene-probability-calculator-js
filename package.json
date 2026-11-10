@@ -2,6 +2,7 @@
   "name": "pepkio-distrogene-probability-calculator",
   "version": "0.1.0",
   "description": "Calculate CRISPR coverage, GO enrichment, variant detection, and barcode collision probabilities with reverse sizing and publication Methods text export via the Pepkio REST API.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
